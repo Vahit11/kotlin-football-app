@@ -1,5 +1,9 @@
 Düzenleme işlemi devam ediyor...
 
+<p align="center">
+  <img width="300" height="500" src="https://user-images.githubusercontent.com/36104238/119580946-324eca80-bdca-11eb-9b23-90050219e55c.gif">
+</p>
+
 ![image1](https://user-images.githubusercontent.com/36104238/119577099-a9806080-bdc2-11eb-948a-6c92dbbed90d.png)
 
 ![image2](https://user-images.githubusercontent.com/36104238/119577107-ae451480-bdc2-11eb-8ab2-b1bedfe9029c.png)
