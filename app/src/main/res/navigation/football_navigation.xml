@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/football_navigation"
+    app:startDestination="@id/scoreStatusFragment">
+
+    <fragment
+        android:id="@+id/scoreStatusFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.ScoreStatusFragment"
+        android:label="fragment_score_status"
+        tools:layout="@layout/fragment_score_status">
+        <action
+            android:id="@+id/action_scoreStatusFragment_to_teamFragment"
+            app:destination="@id/teamFragment" />
+        <action
+            android:id="@+id/action_scoreStatusFragment_to_nextWeekFragment"
+            app:destination="@id/nextWeekFragment"
+            app:enterAnim="@anim/from_next_week_animation"
+            app:exitAnim="@anim/to_left_week_animation"
+            app:popEnterAnim="@anim/from_last_week_animation"
+            app:popExitAnim="@anim/to_right_week_animation" />
+        <action
+            android:id="@+id/action_scoreStatusFragment_to_lastWeekFragment"
+            app:destination="@id/lastWeekFragment"
+            app:enterAnim="@anim/from_last_week_animation"
+            app:exitAnim="@anim/to_right_week_animation"
+            app:launchSingleTop="false"
+            app:popEnterAnim="@anim/from_next_week_animation"
+            app:popExitAnim="@anim/to_left_week_animation"
+            app:popUpToInclusive="false" />
+        <action
+            android:id="@+id/action_scoreStatusFragment_to_systemSettingsFragment"
+            app:destination="@id/systemSettingsFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/teamFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.TeamFragment"
+        android:label="fragment_team"
+        tools:layout="@layout/fragment_team">
+        <argument
+            android:name="teamArgument"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+    <fragment
+        android:id="@+id/lastWeekFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.LastWeekFragment"
+        android:label="fragment_last_week"
+        tools:layout="@layout/fragment_last_week">
+        <argument
+            android:name="lastArgument"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+    <fragment
+        android:id="@+id/nextWeekFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.NextWeekFragment"
+        android:label="fragment_next_week"
+        tools:layout="@layout/fragment_next_week">
+        <argument
+            android:name="nextArgument"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+    <fragment
+        android:id="@+id/systemSettingsFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.SystemSettingsFragment"
+        android:label="fragment_system_settings"
+        tools:layout="@layout/fragment_system_settings" />
+</navigation>
