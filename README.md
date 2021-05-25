@@ -6,8 +6,8 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
   <img width="300" height="500" src="https://user-images.githubusercontent.com/36104238/119580946-324eca80-bdca-11eb-9b23-90050219e55c.gif">
 </p>
 
-#Navigation
-[https://developer.android.com/guide/navigation/navigation-getting-started](Navigation) ile fragment'lar arasında geçiş yapmanın yanısıra bu uygulamada da istenilen geçiş esnasında animasyon ve argument ile birbiri arasında bundle(Bohça) ile değer gönderme imkanı da sağlanmakta. Bu değer açılacak olan fragment'in şekillenmesi ve hangi takımın bilgisine göre şekillenmesinde büyük rol oynamaktadır.
+# [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) <br/>
+📍 Navigation ile fragment'lar arasında geçiş yapmanın yanısıra bu uygulamada da istenilen geçiş esnasında animasyon ve argument ile birbiri arasında bundle(Bohça) ile değer gönderme imkanı da sağlanmakta. Bu değer açılacak olan fragment'in şekillenmesi ve hangi takımın bilgisine göre şekillenmesinde büyük rol oynamaktadır.
 
 ![image1](https://user-images.githubusercontent.com/36104238/119577099-a9806080-bdc2-11eb-948a-6c92dbbed90d.png)
 
