@@ -13,6 +13,8 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 
 ![image2](https://user-images.githubusercontent.com/36104238/119577107-ae451480-bdc2-11eb-8ab2-b1bedfe9029c.png)
 
+# [Navigation Animation](https://developer.android.com/guide/navigation/navigation-animate-transitions)
+
 ![image3](https://user-images.githubusercontent.com/36104238/119577111-b1400500-bdc2-11eb-9b57-8e060c4b873b.png)
 
 ![image4](https://user-images.githubusercontent.com/36104238/119577130-b735e600-bdc2-11eb-9732-4b9031609005.png)
