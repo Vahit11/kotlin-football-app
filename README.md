@@ -1,4 +1,5 @@
 Düzenleme işlemi devam ediyor...
+# NOT: Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve haliyle Github bunu kabul etmiyordu. Gif'in boyutunu düşürmek için kalitesini azalttım bundan ötürü biraz bulanık görünmekte.
 
 <p align="center">
   <img width="300" height="500" src="https://user-images.githubusercontent.com/36104238/119580946-324eca80-bdca-11eb-9b23-90050219e55c.gif">
