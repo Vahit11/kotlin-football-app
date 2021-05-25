@@ -1,4 +1,4 @@
-package com.vahitkeskin.kotlinfootballapp.view
+package com.vahitkeskin.kotlinfootballapp.view.fragment
 
 import android.graphics.Canvas
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.vahitkeskin.kotlinfootballapp.view
+package com.vahitkeskin.kotlinfootballapp.view.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -45,11 +45,11 @@ class SystemSettingsFragment : Fragment() {
             if (updateThemeMode != null) {
                 if (updateThemeMode!!) {
                     AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
-                    customSharedPreferences.saveThemeMode(false)
+                    customSharedPreferences.themeMode(false)
                     binding.tvThemeMode.text = context?.getString(R.string.enable_dark_mode)
                 } else {
                     AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
-                    customSharedPreferences.saveThemeMode(true)
+                    customSharedPreferences.themeMode(true)
                     binding.tvThemeMode.text = context?.getString(R.string.disable_dark_mode)
                 }
             }

@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.vahitkeskin.kotlinfootballapp.R
 import com.vahitkeskin.kotlinfootballapp.databinding.ScoreStatusItemBinding
 import com.vahitkeskin.kotlinfootballapp.model.Model
-import com.vahitkeskin.kotlinfootballapp.view.ScoreStatusFragmentDirections
+import com.vahitkeskin.kotlinfootballapp.view.fragment.ScoreStatusFragmentDirections
 import kotlinx.android.synthetic.main.score_status_item.view.*
 
 class ScoreStatusAdapter(

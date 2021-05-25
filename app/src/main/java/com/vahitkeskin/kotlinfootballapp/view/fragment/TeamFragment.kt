@@ -1,24 +1,24 @@
-package com.vahitkeskin.kotlinfootballapp.view
+package com.vahitkeskin.kotlinfootballapp.view.fragment
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProviders
-import com.vahitkeskin.kotlinfootballapp.databinding.FragmentNextWeekBinding
+import com.vahitkeskin.kotlinfootballapp.databinding.FragmentTeamBinding
 import com.vahitkeskin.kotlinfootballapp.viewmodel.TeamsViewModel
 
-class NextWeekFragment : Fragment() {
+class TeamFragment : Fragment() {
 
-    private lateinit var binding: FragmentNextWeekBinding
+    private lateinit var binding: FragmentTeamBinding
     private lateinit var viewModel: TeamsViewModel
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        binding = FragmentNextWeekBinding.inflate(layoutInflater)
+        binding = FragmentTeamBinding.inflate(layoutInflater)
         return binding.root
     }
 
@@ -29,22 +29,17 @@ class NextWeekFragment : Fragment() {
         viewModel.getDataScoreStatusAPI()
 
         arguments?.let {
-            val selectTeamRanking = NextWeekFragmentArgs.fromBundle(it).nextArgument
+            val selectTeamRanking = TeamFragmentArgs.fromBundle(it).teamArgument
             observeLiveData(selectTeamRanking)
         }
     }
 
-    private fun observeLiveData(selectedNextWeek: Int) {
+    private fun observeLiveData(selectedTeamId: Int) {
         viewModel.teams.observe(viewLifecycleOwner, { teamList ->
-            teamList?.let { list ->
-                for (next1 in list) {
-                    if (next1.ranking == selectedNextWeek) {
-                        for (next2 in list) {
-                            if (next2.ranking == next1.next_week_opponent?.ranking!!) {
-                                binding.nextWeekTeam1 = next1
-                                binding.nextWeekTeam2 = next2
-                            }
-                        }
+            teamList?.let {
+                for (team in it) {
+                    if (team.ranking == selectedTeamId) {
+                        binding.selectedTeam = team
                     }
                 }
             }

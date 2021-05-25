@@ -19,7 +19,7 @@
         android:layout_height="match_parent"
         android:background="@color/team_item_two"
         android:orientation="vertical"
-        tools:context=".view.LastWeekFragment">
+        tools:context=".view.fragment.LastWeekFragment">
 
         <RelativeLayout
             android:layout_width="match_parent"

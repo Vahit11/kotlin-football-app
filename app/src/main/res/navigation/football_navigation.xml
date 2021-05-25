@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/scoreStatusFragment"
-        android:name="com.vahitkeskin.kotlinfootballapp.view.ScoreStatusFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.fragment.ScoreStatusFragment"
         android:label="fragment_score_status"
         tools:layout="@layout/fragment_score_status">
         <action
@@ -36,7 +36,7 @@
     </fragment>
     <fragment
         android:id="@+id/teamFragment"
-        android:name="com.vahitkeskin.kotlinfootballapp.view.TeamFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.fragment.TeamFragment"
         android:label="fragment_team"
         tools:layout="@layout/fragment_team">
         <argument
@@ -46,7 +46,7 @@
     </fragment>
     <fragment
         android:id="@+id/lastWeekFragment"
-        android:name="com.vahitkeskin.kotlinfootballapp.view.LastWeekFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.fragment.LastWeekFragment"
         android:label="fragment_last_week"
         tools:layout="@layout/fragment_last_week">
         <argument
@@ -56,7 +56,7 @@
     </fragment>
     <fragment
         android:id="@+id/nextWeekFragment"
-        android:name="com.vahitkeskin.kotlinfootballapp.view.NextWeekFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.fragment.NextWeekFragment"
         android:label="fragment_next_week"
         tools:layout="@layout/fragment_next_week">
         <argument
@@ -66,7 +66,7 @@
     </fragment>
     <fragment
         android:id="@+id/systemSettingsFragment"
-        android:name="com.vahitkeskin.kotlinfootballapp.view.SystemSettingsFragment"
+        android:name="com.vahitkeskin.kotlinfootballapp.view.fragment.SystemSettingsFragment"
         android:label="fragment_system_settings"
         tools:layout="@layout/fragment_system_settings" />
 </navigation>

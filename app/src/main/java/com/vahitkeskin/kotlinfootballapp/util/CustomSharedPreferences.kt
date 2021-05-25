@@ -28,9 +28,9 @@ class CustomSharedPreferences {
 
     }
 
-    fun saveThemeMode(saveTheme: Boolean) {
+    fun themeMode(theme: Boolean) {
         sharedPreferences?.edit(commit = true) {
-            putBoolean(PREFERENCES_THEME_MODE_NAME,saveTheme)
+            putBoolean(PREFERENCES_THEME_MODE_NAME,theme)
         }
     }
 

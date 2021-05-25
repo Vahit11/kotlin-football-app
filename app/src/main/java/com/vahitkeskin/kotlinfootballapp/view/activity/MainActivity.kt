@@ -1,9 +1,11 @@
-package com.vahitkeskin.kotlinfootballapp.view
+package com.vahitkeskin.kotlinfootballapp.view.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.vahitkeskin.kotlinfootballapp.databinding.ActivityMainBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
