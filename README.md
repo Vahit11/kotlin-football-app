@@ -1,5 +1,6 @@
 Düzenleme işlemi devam ediyor...
 
+![image0](https://user-images.githubusercontent.com/36104238/119577403-40e5b380-bdc3-11eb-9341-d25bb64dcde8.png)
 
 ![image1](https://user-images.githubusercontent.com/36104238/119577099-a9806080-bdc2-11eb-948a-6c92dbbed90d.png)
 
