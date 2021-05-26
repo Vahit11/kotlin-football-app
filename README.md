@@ -36,7 +36,7 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 
 ![image11](https://user-images.githubusercontent.com/36104238/119582840-07667580-bdce-11eb-8caf-9cbd5d4388bf.png)
 
-📍 API'dan gelen verilerin önce Model View ViewModel (MVVM) ile kullanıcının görünmesine uygun hale geldikten sonra bu verileri ROOM'a kaydedilmesi se sağlandı. Jetpack'in getirdiği ayrılacalıklardan biri Kotlin veya Java kodları gerekmeksızın normal SQL sorgusu ile yazılmış iki örnek aşağıda verilmektedir
+📍 API'dan gelen verilerin önce [Model View ViewModel (MVVM)](https://developer.android.com/topic/libraries/architecture/viewmodel) ile kullanıcının görünmesine uygun hale geldikten sonra bu verileri ROOM'a kaydedilmesi se sağlandı. [Jetpack](https://developer.android.com/jetpack)'in getirdiği ayrılacalıklardan biri Kotlin veya Java kodları gerekmeksızın normal SQL sorgusu ile yazılmış iki örnek aşağıda verilmektedir
 
 
 ✔ Takım adında "real" bulunan takımların ligdeki sıralaması ve bu takımların adının SQL sorgusu.<br/>
