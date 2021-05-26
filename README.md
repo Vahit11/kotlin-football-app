@@ -30,3 +30,10 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 ![image9](https://user-images.githubusercontent.com/36104238/119577201-d6cd0e80-bdc2-11eb-9150-43af2b0d9d35.png)
 
 ![image10](https://user-images.githubusercontent.com/36104238/119577206-d9c7ff00-bdc2-11eb-88ec-cad41afb3c41.png)
+
+# [ROOM](https://developer.android.com/training/data-storage/room) <br/>
+📍 Retpack'in en önemli öğelerinden bir tanesi diyebiliriz, Özellikle Android 4.1 ile Android Studio içerisine eklenen Database Inspector ile gerek soguların gereksede kodların clean bir şekilde yazılmasının yanısıra bu yazılın kodlar tıpkı [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) gibi bir arayüz ile SQL kodlarını  data anlaşılır kılmakta.
+
+![image11](https://user-images.githubusercontent.com/36104238/119582840-07667580-bdce-11eb-8caf-9cbd5d4388bf.png)
+
+![image12](https://user-images.githubusercontent.com/36104238/119582852-0e8d8380-bdce-11eb-8f6b-a66b58d878ba.png)
