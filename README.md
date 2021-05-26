@@ -37,7 +37,7 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 
 ![image4](https://user-images.githubusercontent.com/36104238/119577130-b735e600-bdc2-11eb-9732-4b9031609005.png)
 
-# DATA BINDING
+# [DATA BINDING](https://developer.android.com/topic/libraries/data-binding)
 📍 Android uzun zamandır layout xml içerisinde bulunan gerek id değerlerine gereksede burda bulunan xml'in herhangi bir komutuna ulaşmakta hep zorluk yaşamaktadır. Bunun sebebi hafızayı çok azda olsa yormaktan. Daha önceden id 'kotlin-android-extensions'hazır bir şekilde gelmekteydi 
 
 ![android databinding use](https://user-images.githubusercontent.com/36104238/119585860-439cd480-bdd4-11eb-86e0-84483c2f039d.png)
