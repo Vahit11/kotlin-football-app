@@ -5,7 +5,7 @@ Düzenleme işlemi devam ediyor...
 https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg
 ```
 
-# Kitaplıklar ve araçlar (Libraries and tools)
+# Kitaplıklar ve araçlar
 - [x] Navigation
 - [x] MVVM
 - [x] Retrofit & RxJava
@@ -14,7 +14,7 @@ https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg
 - [x] Data Binding
 - [x] View Binding
 
-# NOT (NOTE):
+# NOT:
 Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve haliyle Github bunu kabul etmiyordu. Gif'in boyutunu düşürmek için kalitesini azalttım bundan ötürü biraz bulanık görünmekte.
 
 <p align="center">
@@ -67,7 +67,7 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 
 ![image12](https://user-images.githubusercontent.com/36104238/119582852-0e8d8380-bdce-11eb-8f6b-a66b58d878ba.png)
 
-# KAYNAKLAR (RESOURCES)
+# KAYNAKLAR
 - [Developer Android Studio](https://developer.android.com/)
 - [Stackoverflow](https://stackoverflow.com/)
 - [Github](https://github.com/)
