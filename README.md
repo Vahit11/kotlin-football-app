@@ -8,6 +8,8 @@
 - [x] ROOM
 - [x] Data Binding
 - [x] View Binding
+- [x] Coroutines
+
 
 # NOT:
 Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve haliyle Github bunu kabul etmiyordu. Gif'in boyutunu düşürmek için kalitesini azalttım bundan ötürü biraz bulanık görünmekte.
