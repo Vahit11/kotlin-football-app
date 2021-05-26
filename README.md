@@ -4,7 +4,7 @@
 https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg
 ```
 
-# Kitaplıklar ve Araçlar :android:
+# Kitaplıklar ve Araçlar :hammer:
 - [x] Navigation
 - [x] MVVM
 - [x] Retrofit & RxJava
