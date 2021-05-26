@@ -1,6 +1,5 @@
-Düzenleme işlemi devam ediyor...
-
 # [APK'yı indir!](https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg)
+
 ```diff
 https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg
 ```
@@ -18,7 +17,7 @@ https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg
 Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve haliyle Github bunu kabul etmiyordu. Gif'in boyutunu düşürmek için kalitesini azalttım bundan ötürü biraz bulanık görünmekte.
 
 <p align="center">
-  <img width="300" height="500" src="https://user-images.githubusercontent.com/36104238/119580946-324eca80-bdca-11eb-9b23-90050219e55c.gif">
+  <img width="300" height="550" src="https://user-images.githubusercontent.com/36104238/119580946-324eca80-bdca-11eb-9b23-90050219e55c.gif">
 </p>
 
 # [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) <br/>
@@ -26,11 +25,15 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 
 ![image1](https://user-images.githubusercontent.com/36104238/119577099-a9806080-bdc2-11eb-948a-6c92dbbed90d.png)
 
+# Paketlerin Görünümü
+
 ![image2](https://user-images.githubusercontent.com/36104238/119577107-ae451480-bdc2-11eb-8ab2-b1bedfe9029c.png)
 
 # [Navigation Animation](https://developer.android.com/guide/navigation/navigation-animate-transitions)
 
 ![image3](https://user-images.githubusercontent.com/36104238/119577111-b1400500-bdc2-11eb-9b57-8e060c4b873b.png)
+
+# Splash Screen
 
 ![image4](https://user-images.githubusercontent.com/36104238/119577130-b735e600-bdc2-11eb-9732-4b9031609005.png)
 
