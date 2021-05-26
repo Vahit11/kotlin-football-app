@@ -28,6 +28,13 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 
 ![image4](https://user-images.githubusercontent.com/36104238/119577130-b735e600-bdc2-11eb-9732-4b9031609005.png)
 
+# DATA BINDING
+📍 Android uzun zamandır layout xml içerisinde bulunan gerek id değerlerine gereksede burda bulunan xml'in herhangi bir komutuna ulaşmakta hep zorluk yaşamaktadır. Bunun sebebi hafızayı çok azda olsa yormaktan. Daha önceden id 'kotlin-android-extensions'hazır bir şekilde gelmekteydi 
+
+![android databinding use](https://user-images.githubusercontent.com/36104238/119585860-439cd480-bdd4-11eb-86e0-84483c2f039d.png)
+
+Data binding ile artık xml içerisindeki id değerine erişmeksızın TextView için text içerisinde, ImageView için ise oluşurulan Extensions ile bu değerlere doğrudan erişip modelde tanımlı değerine doğrudan atama işlemi yapılabilmektedir. Bu işlem <layout></layout> içerisinde tanımlanmalı
+
 ![image5](https://user-images.githubusercontent.com/36104238/119577146-bbfa9a00-bdc2-11eb-9ecc-9b0fc6fc459f.png)
 
 ![image6](https://user-images.githubusercontent.com/36104238/119577157-c157e480-bdc2-11eb-8be5-6ada9aae4e89.png)
