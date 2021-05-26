@@ -1,9 +1,10 @@
 Düzenleme işlemi devam ediyor...
 
-<p float="left">
-  <img width="50" height="50" src="https://user-images.githubusercontent.com/36104238/119588412-6978a800-bdd9-11eb-8202-1de8ef03cf2d.png">
-  <a id="raw-url" href="https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg">APK'yı indir!</a>
-</p>
+# [APK'yı indir!](https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg)
+```diff
+https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg
+```
+
 # Kitaplıklar ve araçlar (Libraries and tools)
 - [x] Navigation
 - [x] MVVM
@@ -53,7 +54,7 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 ![image10](https://user-images.githubusercontent.com/36104238/119577206-d9c7ff00-bdc2-11eb-88ec-cad41afb3c41.png)
 
 # [ROOM](https://developer.android.com/training/data-storage/room) <br/>
-📍 [Jetpack](https://developer.android.com/jetpack)'in en önemli öğelerinden bir tanesi diyebiliriz, Özellikle Android 4.1 ile Android Studio içerisine eklenen Database Inspector ile gerek soguların gereksede kodların clean bir şekilde yazılmasının yanısıra bu yazılın kodlar tıpkı [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) gibi bir arayüz ile SQL kodlarını  data anlaşılır kılmakta.
+📍 [Jetpack](https://developer.android.com/jetpack)'in en önemli öğelerinden bir tanesi diyebiliriz, Özellikle Android 4.1 ile Android Studio içerisine eklenen Database Inspector ile gerek sorguların gereksede kodların clean bir şekilde yazılmasının yanısıra bu yazılın kodlar tıpkı [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) gibi bir arayüz ile SQL kodlarını  data anlaşılır kılmakta.
 
 ![image11](https://user-images.githubusercontent.com/36104238/119582840-07667580-bdce-11eb-8caf-9cbd5d4388bf.png)
 
