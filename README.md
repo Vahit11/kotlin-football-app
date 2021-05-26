@@ -33,7 +33,7 @@ Video süresi 72sn ve bu videoyu gif'e dönüştürdüğümde boyutu 19.4mb ve h
 
 ![android databinding use](https://user-images.githubusercontent.com/36104238/119585860-439cd480-bdd4-11eb-86e0-84483c2f039d.png)
 
-Data binding ile artık xml içerisindeki id değerine erişmeksızın TextView için text içerisinde, ImageView için ise oluşurulan Extensions ile bu değerlere doğrudan erişip modelde tanımlı değerine doğrudan atama işlemi yapılabilmektedir. Bu işlem <layout></layout> içerisinde tanımlanmalı
+[DataBinding](https://developer.android.com/topic/libraries/data-binding) ile artık xml içerisindeki id değerine erişmeksızın TextView için text içerisinde, ImageView için ise oluşurulan Extensions ile bu değerlere doğrudan erişip modelde tanımlı değerine doğrudan atama işlemi yapılabilmektedir. Bu işlem layout tag'i içerisinde tanımlanmalı
 
 ![image5](https://user-images.githubusercontent.com/36104238/119577146-bbfa9a00-bdc2-11eb-9ecc-9b0fc6fc459f.png)
 
