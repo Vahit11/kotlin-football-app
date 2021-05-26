@@ -5,7 +5,7 @@ Düzenleme işlemi devam ediyor...
 https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg
 ```
 
-# Kitaplıklar ve araçlar
+# Kitaplıklar ve araçlar :hammer:
 - [x] Navigation
 - [x] MVVM
 - [x] Retrofit & RxJava
