@@ -1,4 +1,9 @@
 Düzenleme işlemi devam ediyor...
+
+<p float="left">
+  <img width="50" height="50" src="https://user-images.githubusercontent.com/36104238/119588412-6978a800-bdd9-11eb-8202-1de8ef03cf2d.png">
+  <a id="raw-url" href="https://disk.yandex.com.tr/d/RqyEKWb4rjdXGg">APK'yı indir!</a>
+</p>
 # Kitaplıklar ve araçlar (Libraries and tools)
 - [x] Navigation
 - [x] MVVM
